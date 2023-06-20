@@ -4,7 +4,7 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
- ![Jupiter](https://img.shields.io/badge/Jupiter-%23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+ ![Jupyter](https://img.shields.io/badge/Jupyter-%23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  ![Open_Source](https://img.shields.io/badge/Licence_MIT-%230072C6.svg?style=for-the-badge&logo=sourcehut&logoColor=white)
 ![Open_Source](https://img.shields.io/badge/Open_source-%23000000.svg?style=for-the-badge&logo=githubsponsors&logoColor=E71D29)
 
