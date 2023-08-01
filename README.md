@@ -8,17 +8,15 @@
  ![Open_Source](https://img.shields.io/badge/Licence_MIT-%230072C6.svg?style=for-the-badge&logo=sourcehut&logoColor=white)
 ![Open_Source](https://img.shields.io/badge/Open_source-%23000000.svg?style=for-the-badge&logo=githubsponsors&logoColor=E71D29)
 
-
-Repositorio para los ejercicios, ejemplos y problemas del curso Intersemestral de Preprocesamiento y Limpieza de Datos con Python de la FES Aragon
+Repository for the exercises, examples and problems of the Intersemester course of Preprocessing and Data Cleaning with Python of the FES Aragon.
 
 
 
 ## 📜 Constancia
-
 <div align="center">
-<a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" width="200" height="" src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos_Python/assets/42923366/1a736eda-83c1-440d-9975-1f828d0d09da" style="margin-top:20px" alt="Constancia"/></a>
+<a href="https://drive.google.com/file/d/1C8kA5Ii7wbDDNB6i9BVQonGxsUlSdKyz/view?usp=sharing" target="_blank"><img aling="center" width="350" height="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/42923366/257649837-4ff3f9a4-1859-4a79-9f00-a05bc13b12a1.png" style="margin-top:20px" alt="Constancia"/></a>
 
-<b><sub>⚒️ Under construction ⚒️</sub></b>
+<b ><sub >👾 Completed 👾</sub></b>
 
 </div>
 
